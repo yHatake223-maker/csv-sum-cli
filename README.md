@@ -330,3 +330,5 @@ CI daily warm-up: 2026-01-08
 CI daily warm-up: 2026-01-09
 CI daily warm-up: 2026-01-10
 CI daily warm-up: 2026-01-11
+# csv-sum-cli
+A simple CLI tool to sum amounts from a CSV file.　20260111
