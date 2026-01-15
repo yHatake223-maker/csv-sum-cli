@@ -1,3 +1,25 @@
+# csv-sum-cli
+
+このリポジトリは、**CI/CD daily warm-up テンプレの実運用検証用サンプルプロジェクト**です。
+
+本リポジトリは、以下のテンプレを利用して運用されています：
+
+- https://github.com/YOURNAME/everyday_helloworld
+
+
+## Positioning
+
+- 本リポジトリでは **機能実装・テスト追加・仕様検討** を行います
+- CI/CD の導線・運用・仕組みそのものに関する違和感や改善点は、  
+  **テンプレ側（everyday_helloworld）に Issue / PR として還元**します
+
+判断に迷った場合は、テンプレ側 README に記載されている  
+**Template Usage Principles** を正とします。
+
+このプロジェクトは、  
+テンプレを「実際に使って壊し、学びを返す」ための playground です。
+
+
 ## Quickstart (5 minutes)
 
 This repository is a **daily CI/CD warm-up template**.
